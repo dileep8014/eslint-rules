@@ -1,1 +1,1 @@
-# eslint-rules
+# eslint-rule for links to have aria-label defined
